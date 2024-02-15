@@ -1,0 +1,108 @@
+
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(gaming.jpg);
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    align-items: center;
+}
+
+header {
+    background-color: #5e6b6d;
+    padding: 20px;
+}
+
+header h1 {
+    margin-bottom: 10px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #333;
+    text-decoration: none;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #0a0a0a;
+    ;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(239, 98, 98);
+}
+
+h3 {
+    text-align: center;
+    color: rgb(234, 253, 138);
+}
+
+img {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    color: rgb(249, 246, 246);
+    font-size: medium;
+    font-style: oblique;
+
+}
+
+section {
+    margin-bottom: 30px;
+    background-color: rgba(222, 241, 172, 0.34);
+    padding: 20px;
+    border-radius: 5px;
+  }
+ h1 {
+    text-align: center;
+    color: blanchedalmond;
+ }
+ 
+ form {
+    color: beige;
+ }
+ button {
+    position: relative;
+    padding: 10px 20px;
+    border-radius: 7px;
+    border: 1px color:#85ff40;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 2px;
+    background: #000000;
+    color: #ff4093;
+    overflow: hidden;
+    }
+    
+ button:hover {
+    background: color: white;
+    background: pink;
+  }
+  
